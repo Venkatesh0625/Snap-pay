@@ -1,0 +1,9 @@
+{"Snap_id":"Sandy00","Accnt_no":"3379786791560","Name":"Sandeep","Mobile":"9600294519","Bank_Name":"Sbt","Ifsc":"SBI00012386","Password":"password"}
+{"Snap_id":"Jones","Accnt_no":"7607590935674","Name":"Jonathan","Mobile":"9645378912","Bank_Name":"Sbk","Ifsc":"CVB00098752","Password":"tarunkar"}
+{"Snap_id":"Tarun_kar","Accnt_no":"1032197921908","Name":"Tarun","Mobile":"9876453718","Bank_Name":"Sbk","Ifsc":"KGJ00076451","Password":"jones2000"}
+{"Snap_id":"Nit00","Accnt_no":"8739863124363","Name":"Nitish","Mobile":"7708979848","Bank_Name":"Sbi","Ifsc":"PUNNB000123","Password":"Valkery00"}
+{"Snap_id":"dshankar","Accnt_no":"5728393207616","Name":"D.ShankarNarayanan","Mobile":"9489352536","Bank_Name":"CVI00023476","Ifsc":"","Password":"dshankar"}
+{"Snap_id":"venki25","Accnt_no":"6505006611934","Name":"venkatesh","Mobile":"9629234892","Bank_Name":"abcd1234566","Ifsc":"","Password":"venkatesh25"}
+{"Snap_id":"jeyajk","Accnt_no":"5656805149072","Name":"jeyakumaran","Mobile":"9876543210","Bank_Name":"ghyt1234567","Ifsc":"","Password":"jeyakumaranjk"}
+{"Snap_id":"push1234","Accnt_no":"8287512281365","Name":"pushkaran","Mobile":"9876543211","Bank_Name":"juio1234567","Ifsc":"","Password":"pushkaran1234"}
+{"Snap_id":"deepan","Accnt_no":"2011096939124","Name":"deepan","Mobile":"9876543212","Bank_Name":"deep1234567","Ifsc":"","Password":"deepan1234"}

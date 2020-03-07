@@ -1,0 +1,369 @@
+# depslib dependency file v1.0
+1554960073 source:e:\softwares\snap-pay\bank_det.cpp
+
+1554959587 e:\softwares\snap-pay\bank_det.h
+	<iostream>
+
+1554959684 source:e:\softwares\snap-pay\datime.cpp
+	"datime.h"
+	<iostream>
+	<ctime>
+
+1554959667 e:\softwares\snap-pay\datime.h
+	<iostream>
+
+1555067727 source:e:\softwares\snap-pay\json.cpp
+	<iostream>
+	<stdio.h>
+	"json.h"
+
+1554928414 e:\softwares\snap-pay\json.h
+	<iostream>
+
+1555244004 source:e:\softwares\snap-pay\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	"bank.h"
+	"snap.h"
+	"json.h"
+
+1555060688 source:e:\softwares\snap-pay\basic.cpp
+
+1555060688 e:\softwares\snap-pay\basic.cpp
+
+1555060670 e:\softwares\snap-pay\bank.h
+	<iostream>
+	"datime.h"
+	"user.h"
+	"bank_det.h"
+	"json.h"
+	"basic.h"
+
+1555059758 e:\softwares\snap-pay\user.h
+	<iostream>
+
+1555063825 e:\softwares\snap-pay\snap.h
+	<iostream>
+	<conio.h>
+	"user.h"
+	"bank_det.h"
+	"json.h"
+
+1555244101 source:e:\softwares\snap-pay\snap.cpp
+	<iostream>
+	<fstream>
+	"snap.h"
+	"bank.h"
+
+1555060144 source:e:\softwares\snap-pay\user.cpp
+	<iostream>
+	"user.h"
+
+1555063034 e:\softwares\snap-pay\basic.h
+	<iostream>
+	<math.h>
+
+1555242505 source:e:\softwares\snap-pay\bank.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"bank.h"
+
+1555238423 source:e:\softwares\snap-pay\navven.cpp
+	"navven.h"
+
+1555238423 e:\softwares\snap-pay\navven.h
+
+1554960073 source:c:\users\faker\desktop\snap-pay\bank_det.cpp
+
+1555060688 source:c:\users\faker\desktop\snap-pay\basic.cpp
+
+1554959684 source:c:\users\faker\desktop\snap-pay\datime.cpp
+	"datime.h"
+	<iostream>
+	<ctime>
+
+1554959667 c:\users\faker\desktop\snap-pay\datime.h
+	<iostream>
+
+1555067727 source:c:\users\faker\desktop\snap-pay\json.cpp
+	<iostream>
+	<stdio.h>
+	"json.h"
+
+1554928414 c:\users\faker\desktop\snap-pay\json.h
+	<iostream>
+
+1555060144 source:c:\users\faker\desktop\snap-pay\user.cpp
+	<iostream>
+	"user.h"
+
+1555059758 c:\users\faker\desktop\snap-pay\user.h
+	<iostream>
+
+1555257708 source:c:\users\faker\desktop\snap-pay\bank.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"bank.h"
+
+1555298529 c:\users\faker\desktop\snap-pay\bank.h
+	<iostream>
+	"datime.h"
+	"user.h"
+	"bank_det.h"
+	"json.h"
+	"basic.h"
+
+1555249216 c:\users\faker\desktop\snap-pay\bank_det.h
+	<iostream>
+
+1555259949 c:\users\faker\desktop\snap-pay\basic.h
+	<iostream>
+	<math.h>
+
+1555300268 source:c:\users\faker\desktop\snap-pay\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	"bank.h"
+	"snap.h"
+	"json.h"
+
+1555248043 c:\users\faker\desktop\snap-pay\snap.h
+	<iostream>
+	<conio.h>
+	"user.h"
+	"bank_det.h"
+	"json.h"
+
+1555299934 source:c:\users\faker\desktop\snap-pay\snap.cpp
+	<iostream>
+	<fstream>
+	"snap.h"
+	"bank.h"
+
+1554960073 source:c:\snap-pay\bank_det.cpp
+
+1555060688 source:c:\snap-pay\basic.cpp
+
+1555479599 source:c:\snap-pay\datime.cpp
+	"datime.h"
+	<iostream>
+	<ctime>
+
+1555479657 c:\snap-pay\datime.h
+	<iostream>
+
+1555475237 source:c:\snap-pay\json.cpp
+	<iostream>
+	<stdio.h>
+	"json.h"
+
+1554928414 c:\snap-pay\json.h
+	<iostream>
+
+1555479676 source:c:\snap-pay\snap.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"snap.h"
+	"bank.h"
+
+1555479639 c:\snap-pay\snap.h
+	<iostream>
+	<conio.h>
+	"user.h"
+	"bank_det.h"
+	"json.h"
+
+1555422343 c:\snap-pay\user.h
+	<iostream>
+
+1555335379 c:\snap-pay\bank_det.h
+	<iostream>
+
+1555479532 c:\snap-pay\bank.h
+	<iostream>
+	"datime.h"
+	"user.h"
+	"bank_det.h"
+	"json.h"
+	"basic.h"
+	"snap.h"
+
+1555317826 c:\snap-pay\basic.h
+	<iostream>
+	<math.h>
+
+1555334347 source:c:\snap-pay\user.cpp
+
+1555479299 source:c:\snap-pay\bank.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"bank.h"
+
+1555482678 source:c:\snap-pay\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<stdlib.h>
+	<process.h>
+	<stdio.h>
+	"bank.h"
+	"snap.h"
+	"json.h"
+	"contact.h"
+	"transaction.h"
+
+1555474301 source:c:\snap-pay\contact.cpp
+	"contact.h"
+	<fstream>
+	"json.h"
+	"snap.h"
+
+1555426535 c:\snap-pay\contact.h
+	<iostream>
+	"user.h"
+	"json.h"
+
+1555479700 c:\snap-pay\transaction.h
+	"datime.h"
+	"basic.h"
+	<iostream>
+	"datime.h"
+	"json.h"
+
+1555479389 source:c:\snap-pay\transaction.cpp
+	"transaction.h"
+	"datime.h"
+	<iomanip>
+
+1555475344 source:c:\snap-pay\file.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<stdlib.h>
+	<process.h>
+	<stdio.h>
+	"bank.h"
+	"snap.h"
+	"json.h"
+	"contact.h"
+	"transaction.h"
+
+1555479299 source:e:\packages\snap-pay\bank.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"bank.h"
+
+1555479532 e:\packages\snap-pay\bank.h
+	<iostream>
+	"datime.h"
+	"user.h"
+	"bank_det.h"
+	"json.h"
+	"basic.h"
+	"snap.h"
+
+1555479657 e:\packages\snap-pay\datime.h
+	<iostream>
+
+1555422343 e:\packages\snap-pay\user.h
+	<iostream>
+
+1555335379 e:\packages\snap-pay\bank_det.h
+	<iostream>
+
+1554928414 e:\packages\snap-pay\json.h
+	<iostream>
+
+1555317826 e:\packages\snap-pay\basic.h
+	<iostream>
+	<math.h>
+
+1555479639 e:\packages\snap-pay\snap.h
+	<iostream>
+	<conio.h>
+	"user.h"
+	"bank_det.h"
+	"json.h"
+
+1554960073 source:e:\packages\snap-pay\bank_det.cpp
+
+1555060688 source:e:\packages\snap-pay\basic.cpp
+
+1555474301 source:e:\packages\snap-pay\contact.cpp
+	"contact.h"
+	<fstream>
+	"json.h"
+	"snap.h"
+
+1555426535 e:\packages\snap-pay\contact.h
+	<iostream>
+	"user.h"
+	"json.h"
+
+1555479599 source:e:\packages\snap-pay\datime.cpp
+	"datime.h"
+	<iostream>
+	<ctime>
+
+1555475237 source:e:\packages\snap-pay\json.cpp
+	<iostream>
+	<stdio.h>
+	"json.h"
+
+1555482907 source:e:\packages\snap-pay\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<stdlib.h>
+	<process.h>
+	<stdio.h>
+	"bank.h"
+	"snap.h"
+	"json.h"
+	"contact.h"
+	"transaction.h"
+
+1555479700 e:\packages\snap-pay\transaction.h
+	"datime.h"
+	"basic.h"
+	<iostream>
+	"datime.h"
+	"json.h"
+
+1555479676 source:e:\packages\snap-pay\snap.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"snap.h"
+	"bank.h"
+
+1555334347 source:e:\packages\snap-pay\user.cpp
+
+1555483040 source:e:\packages\snap-pay\transaction.cpp
+	"transaction.h"
+	"datime.h"
+	<iomanip>
+
